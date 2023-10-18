@@ -15,10 +15,13 @@ For more information on how to edit/customize this wizard for your own usage, pl
 	wizards that are floating around.
     For more information on how to 
 	edit/customize this wizard for 
-	your own usage, please read[the wiki]
+	your own usage, please read [the wiki]
 	(https://github.com/drinfernoo/plugin.program.openwizard/wiki). 
   </ul>
 </p>
+
+
+
 
 
 
