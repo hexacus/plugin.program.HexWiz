@@ -1,4 +1,4 @@
-# plugin.program.HexWiz
+# The HexWiz wizard
 Fork of "OpenWizard" from a4k-openproject
 
 OpenWizard was created to help the Kodi community out and help get rid of the broken personal wizards that are floating around.
