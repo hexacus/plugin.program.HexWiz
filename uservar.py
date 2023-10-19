@@ -17,7 +17,7 @@ ADDONTITLE = '[COLOR limegreen][B]Hex[/B][/COLOR]Wiz'
 BUILDERNAME = 'HexWiz'
 EXCLUDES = [ADDON_ID, 'repository.hexapository']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
-BUILDFILE = 'https://www.dropbox.com/scl/fi/mkjyb6p01vq4k3152id99/build.txt?rlkey=7sdgl4kbw09y432hddw72zxad&dl=0'
+BUILDFILE = 'https://www.dropbox.com/scl/fi/of6l47fkwsq5fluohi597/build.txt?rlkey=59gk6svbhzg2yd885p4ch13lp&dl=0'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
