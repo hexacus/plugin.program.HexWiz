@@ -19,7 +19,7 @@
         <description lang="en">[COLOR limegreen]Hex[/COLOR]Wiz is a wizard im experimenting with to install my builds</description>
         <platform>all</platform>
         <reuselanguageinvoker>false</reuselanguageinvoker>
-        <source>hhttps://www.github.com/hexacus/plugin.program.HexWiz/</source>
+        <source>https://github.com/hexacus/plugin.program.HexWiz/</source>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.png</fanart>
